@@ -1,20 +1,31 @@
 ## Hi, I'm Nikhil 👋
 
-Software Engineer | M.Eng in Computer Science at the University of Cincinnati | Former Software Engineer Intern at SAP Labs
+Software Developer with 4+ years of experience across the full SDLC, building scalable web applications with Java, Spring Boot, React.js, Angular, Node.js, and microservices. I've worked in banking (HSBC Technology) and ERP services (ERP Labs), and I'm currently pursuing my Master of Engineering in Computer Science.
 
-I build backend services and full-stack apps with Java, Spring Boot, Node.js, React, and AWS. At SAP Labs I built REST APIs in Java and Spring Boot, raised test coverage from 58% to 85%, and cut API response time by 35%.
+### What I work on
+- Microservices and REST APIs with Spring Boot, Kafka messaging, and secure, PCI DSS-compliant data processing
+- Responsive frontends with React.js, Redux, and Angular
+- Cloud deployments on AWS (EC2, S3, Lambda, CloudWatch) with Docker, Kubernetes, and Jenkins CI/CD
+- Exploring AIOps, ML pipeline integration, and AI infrastructure
 
 ### Tech Stack
-- **Languages:** Java, Python, JavaScript, TypeScript, C#, SQL, C++, Go
-- **Frameworks:** Spring Boot, React, Node.js, Express, .NET, FastAPI
-- **Cloud and DevOps:** AWS (EC2, ECS, Lambda, API Gateway, S3, DynamoDB, RDS, SQS, CloudWatch), Docker, Kubernetes, Terraform, GitHub Actions, Jenkins
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
-- **Testing:** JUnit, Mockito, Jest, PyTest
+- **Languages:** Java, Python, JavaScript, TypeScript, C++, PL/SQL, SuiteScript
+- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Hibernate, Node.js, Express, React.js, Angular, Vue.js
+- **Messaging and Data:** Apache Kafka, PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, Neo4j
+- **Cloud and DevOps:** AWS, Azure, Docker, Kubernetes, Jenkins, Ansible, Git, Maven, Gradle
+- **Testing:** JUnit, Mockito, Selenium, TestNG, JMeter, Jest, Cucumber
+- **ML:** PyTorch, TensorFlow, scikit-learn
 
-### Projects
-- **[Event Ticketing Platform](https://github.com/rnikhil2002/event-ticketing-platform)**: Ticket booking system of 3 microservices with Redis seat locks, idempotency keys, and a GitHub Actions CI/CD pipeline.
-- **[Real-Time Task Board](https://github.com/rnikhil2002/realtime-task-board)**: Collaborative board with WebSocket updates under 150 ms, JWT auth with role-based access, and 40+ Jest tests.
-- **[Serverless URL Shortener](https://github.com/rnikhil2002/serverless-url-shortener)**: AWS Lambda service handling 50K+ redirects at 80 ms p95, provisioned with Terraform for under $5 a month.
+### Featured Projects
+- **Self-Healing Microservices Platform** (in progress): Spring Boot microservices on Kubernetes with an Isolation Forest anomaly detector on Prometheus metrics, automatic remediation, and LLM-generated root-cause summaries.
+- **Real-Time Payment Fraud Detection Engine** (in progress): Kafka, Spring Boot, and Neo4j graph rules that link accounts, devices, and merchants, with a React.js dashboard for live alerts.
+- **[Event Ticketing Platform](https://github.com/rnikhil2002/event-ticketing-platform)**: Spring Boot microservices with Redis seat locks, idempotency keys, and a GitHub Actions CI/CD pipeline.
+- **[Real-Time Task Board](https://github.com/rnikhil2002/realtime-task-board)**: WebSocket updates under 150 ms, JWT auth with role-based access, and 40+ Jest tests.
+- **[Serverless URL Shortener](https://github.com/rnikhil2002/serverless-url-shortener)**: AWS Lambda service handling 50K+ redirects at 80 ms p95, provisioned with Terraform.
+
+### Certifications
+- AWS Certified Developer – Associate
+- Oracle Certified Professional: Java SE 17 Developer
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/nikhil-r-90025841b/)
